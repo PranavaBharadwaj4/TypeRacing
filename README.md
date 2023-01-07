@@ -42,4 +42,4 @@ Made with minimal yet aesthetic style choices, it's the perfect way to get good 
 - The winners screen is showered with graffiti.
 - The scores of the contest are displayed on every screen.
 
-<img width="1440" alt="Screenshot 2023-01-07 at 11 58 39 PM" src="https://user-images.githubusercontent.com/90324990/211166833-ad18a8fc-03a3-4d0a-8f5d-f12a0cc6ff8f.png">
+<img width="1440" alt="Screenshot 2023-01-07 at 11 58 39 PM" src="https://user-images.githubusercontent.com/90324990/211166998-9273958f-17fe-4b38-850f-8f8294065779.png">
