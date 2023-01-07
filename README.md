@@ -16,16 +16,20 @@ Made with minimal yet aesthetic style choices, it's the perfect way to get good 
 
 ## A quick walkthrough.
 1. Home Page.
+- User has the option to create or join a game.
 <img width="1440" alt="Screenshot 2023-01-07 at 11 59 16 PM" src="https://user-images.githubusercontent.com/90324990/211166399-d8f45456-4a18-48e2-938a-3c7e1faa4dfb.png">
 
 2. Game Creation Page.
+- The user is allowed to create a gain with a unique room ID.
 <img width="1440" alt="Screenshot 2023-01-07 at 11 59 39 PM" src="https://user-images.githubusercontent.com/90324990/211166414-7a673040-0034-4342-94f4-4f13371ebdff.png">
 
 3. Game Joining Page.
+ - User has to enter the unique room ID to enter a specific game room.
 <img width="1440" alt="Screenshot 2023-01-08 at 12 00 17 AM" src="https://user-images.githubusercontent.com/90324990/211166439-f85ddabe-8b08-42cc-a2e0-d1240faa0545.png">
 
 4. Pre-Game Phase.
-Before the game starts, the host has the option of inviting other users to join the game. The game starts when the host clicks on the "Start Game" button.
+ - Before the game starts, the host has the option of inviting other users to join the game.
+ - The game starts when the host clicks on the "Start Game" button.
 <img width="1440" alt="Screenshot 2023-01-08 at 12 35 17 AM" src="https://user-images.githubusercontent.com/90324990/211166595-61651dba-aa37-4bfa-97a9-e2ab20c4c339.png">
 
 5. Game Phase.
