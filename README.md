@@ -43,3 +43,8 @@ Made with minimal yet aesthetic style choices, it's the perfect way to get good 
 - The scores of the contest are displayed on every screen.
 
 <img width="1440" alt="Screenshot 2023-01-07 at 11 58 39 PM" src="https://user-images.githubusercontent.com/90324990/211166998-9273958f-17fe-4b38-850f-8f8294065779.png">
+
+## Future Updates will include:
+- Add a friend feature.
+- Chat with friends feature.
+- Score tracking charts.
