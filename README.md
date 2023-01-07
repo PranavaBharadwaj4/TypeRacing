@@ -9,8 +9,8 @@ Made with minimal yet aesthetic style choices, it's the perfect way to get good 
 5. QuotableAPI.
 
 ## To boot the project:
-1. Install the server node dependencies.
-2. Install the client side node dependencies.
+1. Install the server-side node dependencies.
+2. Install the client-side node dependencies.
 3. Run both the server and the client.
 4. Can be opened in different tabs to simulate multiple users.
 
